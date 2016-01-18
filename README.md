@@ -15,7 +15,7 @@ underlying consistent hash ring. This is advantageous because every node is
 capable of forwarding requests to the correct node, which is why it receives
 the term one-hop.
 
-OneCache's name then becomes a play on its one-hop DHT and memcached protocol
+OneCache's name then becomes a play on its one-hop DHT architecture and memcached protocol
 support.
 
 ## Usage
