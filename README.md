@@ -18,6 +18,8 @@ the term one-hop.
 OneCache's name then becomes a play on its one-hop DHT architecture and memcached protocol
 support.
 
+Download pre-compiled binaries by browsing the [releases.](https://github.com/dadgar/onecache/releases)
+
 ## Usage
 ### Single Node
 To start a single OneCache node listening on memcached's default port, simply
