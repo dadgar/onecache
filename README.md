@@ -20,6 +20,8 @@ support.
 
 Download pre-compiled binaries by browsing the [releases.](https://github.com/dadgar/onecache/releases)
 
+See a micro-benchmark comparing OneCache and memcached [here.](BENCHMARK.md)
+
 ## Usage
 ### Single Node
 To start a single OneCache node listening on memcached's default port, simply
