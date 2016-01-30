@@ -11,9 +11,9 @@ import (
 
 	"os"
 
-	"code.google.com/p/go-uuid/uuid"
 	"github.com/dadgar/onecache/ttlstore"
 	"github.com/hashicorp/serf/serf"
+	"github.com/pborman/uuid"
 )
 
 const (
